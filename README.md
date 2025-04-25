@@ -1,5 +1,5 @@
 # primer-repo
 Primer repo privado en github
 
-##Descripcion
+## Descripcion
 Este es un repo de prueba 
